@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm River</h1>
-<h3 align="center">A developer from Turkey</h3>
+<h3 align="center">An aspiring software developer from Turkey</h3>
 
 - 🌱 I’m currently learning **The basics of Python**
 
