@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **eren.gokirmak@hotmail.com**
+- 📫 How to reach me **contact@erengokirmak.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
