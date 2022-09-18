@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
-<h3 align="center">An aspiring software developer from Turkey</h3>
+<h3 align="center">Hello, I'm Şükrü Eren Gökırmak.</h3>
+
+Hello, I'm Şükrü Eren Gökırmak.
 
 - 🌱 I’m currently a freshman at <b>Bilkent University</b>
 
