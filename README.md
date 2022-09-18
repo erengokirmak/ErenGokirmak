@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">An aspiring software developer from Turkey</h3>
 
-- 🌱 I’m currently a freshman at Bilkent University
+- 🌱 I’m currently a freshman at <b>Bilkent University</b>
 
 - 💬 Ask me about **Anything**
 
