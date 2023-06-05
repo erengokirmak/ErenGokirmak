@@ -4,4 +4,4 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me: **contact@erengokirmak.com**
+- 📫 How to reach me: **sukruerenogkirmak@gmail.com**
